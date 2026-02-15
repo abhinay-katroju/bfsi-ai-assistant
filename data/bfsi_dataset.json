@@ -1,0 +1,752 @@
+[
+  {
+    "instruction": "What are the eligibility criteria for a personal loan?",
+    "input": "Customer asking about personal loan eligibility",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer."
+  },
+  {
+    "instruction": "How do I check my loan application status?",
+    "input": "Customer wants to know application status",
+    "output": "You can check your loan application status in the following ways:\n1. Online Portal: Log in to your account and navigate to 'My Applications'\n2. Mobile App: Open the app, go to 'Loans' > 'My Applications'\n3. Customer Support: Call our support team at 1800-XXX-XXXX\n4. Email: Send your application number to support@lendkraft.ai\n\nPlease have your application number ready for quick access."
+  },
+  {
+    "instruction": "What documents do I need for a loan application?",
+    "input": "Customer asking about required documents",
+    "output": "The following documents are required for a loan application:\n\nIdentity Proof (Any one):\n- Aadhaar Card\n- Passport\n- Voter ID\n- Driver's License\n\nAddress Proof (Any one):\n- Utility bills (electricity, water, gas)\n- Telephone bill\n- Rental agreement\n- Property tax receipt\n\nIncome Proof:\n- Last 3 months salary slips\n- 1 year IT returns (for self-employed)\n- Bank statements (6 months)\n- Form 16 (if applicable)\n\nPlease ensure all documents are recent and clear."
+  },
+  {
+    "instruction": "What is the approval timeline for a loan?",
+    "input": "Customer asking about approval process timeline",
+    "output": "Our loan approval timeline:\n\n1. Application Submission: Instant\n2. Document Verification: 24-48 hours\n3. Credit Assessment: 24 hours\n4. Approval Decision: 2-3 business days\n5. Disbursement: 1-2 business days after approval\n\nTotal Timeline: 3-7 business days from submission to funds in account.\n\nExpedited processing available for premium members - contact support for details."
+  },
+  {
+    "instruction": "Can I apply for a higher loan amount than recommended?",
+    "input": "Customer wants higher loan amount",
+    "output": "Your recommended loan amount is based on your income, credit score, and financial profile. While we can consider requests for higher amounts, approval depends on:\n\n- Debt-to-Income Ratio: Should not exceed 50%\n- Credit History: Strong repayment record\n- Collateral: May be required for amounts above INR 25 lakh\n- Additional Income: Co-applicant income can be considered\n\nPlease contact our loan advisor to explore higher amount possibilities for your profile."
+  },
+  {
+    "instruction": "What is EMI and how is it calculated?",
+    "input": "Customer asking about EMI calculation",
+    "output": "EMI (Equated Monthly Installment) is the fixed amount you pay every month towards your loan.\n\nEMI Formula:\nEMI = [P × R × (1 + R)^N] / [(1 + R)^N - 1]\n\nWhere:\n- P = Principal loan amount\n- R = Monthly interest rate (annual rate ÷ 12 ÷ 100)\n- N = Number of months for loan tenure\n\nExample: For a INR 5 lakh loan at 10% p.a. for 5 years (60 months):\nEMI = approximately INR 10,610 per month\n\nYour total payment = EMI × Number of months\nTotal interest = (EMI × N) - Principal"
+  },
+  {
+    "instruction": "Can I change my EMI payment date?",
+    "input": "Customer wants to change EMI due date",
+    "output": "Yes, you can request to change your EMI due date. However:\n\nProcess:\n1. Log in to your account portal\n2. Go to 'Loan Settings' > 'Payment Schedule'\n3. Select 'Change Due Date'\n4. Choose your preferred date (1-28 of any month)\n5. Submit the request\n\nRestrictions:\n- Maximum 2 changes per financial year\n- Cannot change if loan is in default\n- No change allowed within 5 days of current due date\n\nApproval typically takes 2-3 business days. You'll receive confirmation via email and SMS."
+  },
+  {
+    "instruction": "What happens if I miss an EMI payment?",
+    "input": "Customer asking about late payment consequences",
+    "output": "Missing an EMI payment triggers the following:\n\nImmediate Actions (0-5 days):\n- SMS and email reminders sent\n- Late fee: 1.5% of EMI amount\n- No impact on credit score yet\n\n5-30 Days Late:\n- Additional late fee: 2% of EMI\n- Payment request escalation\n- Credit score impact begins\n\n30+ Days Late:\n- Account marked as default\n- Legal recovery proceedings may start\n- Significant credit score damage\n- Future borrowing becomes difficult\n\nTo avoid this, enable Auto-Pay or set reminders. If facing financial difficulty, contact us immediately for restructuring options."
+  },
+  {
+    "instruction": "Can I make an extra payment towards my loan?",
+    "input": "Customer wants to make additional payment",
+    "output": "Yes! Making extra payments helps reduce your interest burden. Here's how:\n\nOptions:\n1. Partial Prepayment: Pay additional amount anytime (minimum INR 1000)\n2. Full Prepayment: Close the entire loan early\n3. Lump Sum Payment: Make one-time large additional payment\n\nBenefits:\n- Reduces total interest payable\n- Shortens loan tenure\n- Improves credit profile\n- No prepayment penalty after 6 months\n\nNote: 2% prepayment charge applies if prepaying within 6 months of loan origination.\n\nHow to Pay:\n- Online portal > My Loan > Make Payment\n- Mobile app > Payments > Additional Amount\n- Bank transfer with loan account reference"
+  },
+  {
+    "instruction": "What payment methods are accepted for EMI?",
+    "input": "Customer asking about payment options",
+    "output": "We accept multiple payment methods for your EMI:\n\n1. Auto-Debit (Recommended):\n   - Set once, automatic deduction on due date\n   - 0.25% interest rebate\n\n2. Online Payment:\n   - Credit/Debit Card\n   - Net Banking\n   - UPI (Google Pay, PhonePe, Paytm)\n\n3. Offline Payment:\n   - Bank Transfer (NEFT/RTGS/IMPS)\n   - Check payment\n   - Bank branch cash deposit\n\n4. Mobile App:\n   - Direct payment from app\n   - Instant confirmation\n\nAutomatic payment is safest and gets interest benefit. Set it up in your account portal today."
+  },
+  {
+    "instruction": "What is the current interest rate for personal loans?",
+    "input": "Customer asking about personal loan rates",
+    "output": "Our personal loan interest rates are:\n\nStandard Rate: 8.5% - 12.5% p.a. (varies based on profile)\n\nRate Factors:\n- Credit Score 750+: 8.5% - 9.5%\n- Credit Score 700-749: 9.5% - 11.0%\n- Credit Score 650-699: 11.0% - 12.5%\n\nBenefit Programs:\n- Salary Account Holder: Additional 0.5% discount\n- Investment Customer: Additional 0.25% discount\n- Referral Program: Additional 0.25% discount\n- Early Payment: Earn rebates\n\nFor a personalized rate quote, share your credit score and income details. Your actual rate will be confirmed during final approval."
+  },
+  {
+    "instruction": "How does fixed interest rate differ from floating rate?",
+    "input": "Customer asking about interest rate types",
+    "output": "The difference between fixed and floating rates:\n\nFixed Rate:\n- Rate remains constant throughout loan tenure\n- EMI amount stays the same\n- Predictable budget planning\n- Ideal when you expect rate increases\n- Current rate: 9.5% - 11.5% p.a.\n\nFloating Rate:\n- Rate changes based on market conditions\n- EMI may increase or decrease\n- Initial lower rate (8.5% - 10.5% p.a.)\n- Savings if rates fall\n- Risk if rates rise\n\nWhich to choose?\n- Fixed Rate: Conservative, prefer certainty\n- Floating Rate: Expect rate cuts, higher risk appetite\n\nMost customers choose fixed for predictability and peace of mind."
+  },
+  {
+    "instruction": "Can I convert floating rate to fixed rate?",
+    "input": "Customer wants to switch from floating to fixed",
+    "output": "Yes, you can convert your floating rate loan to fixed rate.\n\nProcess:\n1. Submit conversion request through portal or call support\n2. We'll provide your new fixed rate quote\n3. Review and accept the revised terms\n4. Conversion is processed within 5 business days\n\nConversion Details:\n- Applicable after 1 year of disbursement\n- One-time conversion is free\n- New tenure and EMI calculated\n- Previous EMI history remains unchanged\n\nExample:\n- Current floating rate: 9.5% (variable)\n- Proposed fixed rate: 10.0% (guaranteed till closure)\n- Additional cost: ~INR 500-1000 per annum (may vary)\n\nContact our loan specialist to explore if conversion benefits you."
+  },
+  {
+    "instruction": "What does 'per annum' (p.a.) mean in interest rates?",
+    "input": "Customer confused about interest rate terminology",
+    "output": "Per Annum (p.a.) means the interest rate charged per year.\n\nExample:\n- Rate: 12% p.a.\n- Loan Amount: INR 1 lakh\n- For 1 year: Interest = INR 1,00,000 × 12 ÷ 100 = INR 12,000\n- For 1 month: Interest = INR 12,000 ÷ 12 = INR 1,000\n\nHow it affects EMI:\n- Monthly rate = Annual rate ÷ 12\n- 12% p.a. = 1% per month\n- Higher p.a. rate = Higher monthly EMI\n- Lower p.a. rate = Lower monthly EMI\n\nImportant:\n- EMI includes both principal and interest\n- Interest portion decreases over time (more principal in later EMIs)\n- Total interest = (EMI × months) - Principal amount\n\nTip: Lower p.a. rates save significant money over loan tenure."
+  },
+  {
+    "instruction": "How do I reset my account password?",
+    "input": "Customer needs password reset",
+    "output": "To reset your account password:\n\nMethod 1 - Online:\n1. Go to login page\n2. Click 'Forgot Password'\n3. Enter your registered email/mobile\n4. Receive reset link via email or OTP via SMS\n5. Create new password (min 8 chars, mix of letters, numbers, symbols)\n6. Login with new password\n\nMethod 2 - Mobile App:\n1. Open app and go to login\n2. Tap 'Forgot Password'\n3. Verify via OTP\n4. Set new password\n\nMethod 3 - Customer Support:\n1. Call 1800-LENDKRAFT\n2. Verify identity with email and account number\n3. We'll send reset link to your email\n\nSecurity Tips:\n- Don't share password with anyone\n- Change password every 3 months\n- Enable two-factor authentication\n\nFor issues, contact support@lendkraft.ai"
+  },
+  {
+    "instruction": "How can I update my contact information?",
+    "input": "Customer wants to update address or phone",
+    "output": "To update your contact information:\n\nOnline Portal:\n1. Log in to your account\n2. Go to 'Profile' > 'Personal Details'\n3. Click 'Edit' next to the field you want to change\n4. Enter new information\n5. Verify via OTP\n6. Submit\n\nMobile App:\n1. Go to 'Account Settings'\n2. Select 'Personal Information'\n3. Update details and verify\n\nChanges Available:\n- Phone Number (verification required)\n- Email Address (verification required)\n- Address (may need proof)\n- Nominee Details\n\nDocument Update:\n- For address change with address proof (utility bill, etc.)\n- Submit through portal or visit branch\n- Processing time: 5-7 business days\n\nNote: Keeping information updated helps us serve you better and ensures timely loan communications."
+  },
+  {
+    "instruction": "What should I do if my loan account is hacked?",
+    "input": "Customer reports account security issue",
+    "output": "IMMEDIATE ACTIONS (Do this first):\n\n1. Contact Support Immediately:\n   - Call: +91-1800-LENDKRAFT (toll-free)\n   - Email: security@lendkraft.ai (mark urgent)\n   - Time-sensitive: Call is fastest\n\n2. Change Password:\n   - Reset account password immediately\n   - Use new secure password\n\n3. Document Everything:\n   - Note time of unauthorized access\n   - Take screenshots of unusual activity\n   - Save transaction records\n\nWhat We'll Do:\n1. Freeze account temporarily\n2. Review unauthorized transactions\n3. Reverse fraudulent charges\n4. Issue new login credentials\n5. Monitor for further fraud\n6. File cyber incident report\n\nPrevention Tips:\n- Use strong, unique passwords\n- Enable two-factor authentication\n- Don't use public WiFi for banking\n- Clear browser cache regularly\n- Logout after every session\n\nDon't worry - we have fraud protection. Swift action is key!"
+  },
+  {
+    "instruction": "How do I close my loan account?",
+    "input": "Customer wants to close/pay off loan early",
+    "output": "To close your loan account, you can:\n\nFull Prepayment (Close Completely):\n1. Request prepayment quote (portal or support)\n2. Quote includes principal + remaining interest\n3. Arrange funds and make payment\n4. Processing time: 2-3 business days\n5. Receive No-Objection Certificate (NOC)\n\nCost Breakdown (if prepaying before 6 months):\n- Principal: Remaining amount\n- Interest: Pro-rata calculation\n- Prepayment Charge: 2% of outstanding amount\n- Processing Fee: INR 0 (waived)\n\nAfter 6 months: NO PREPAYMENT CHARGES\n\nDocuments You'll Get:\n- NOC letter\n- Payoff certificate\n- Settlement statement\n- Clearance letter for credit reports\n\nBenefits:\n- Interest savings\n- Improved credit score\n- Faster financial freedom\n- No future EMI obligations\n\nTo proceed: Visit portal > My Loan > Prepayment > Request Quote"
+  },
+  {
+    "instruction": "Why was my payment declined?",
+    "input": "Customer's payment failed or was rejected",
+    "output": "Common reasons for payment decline:\n\n1. Insufficient Funds:\n   - Account balance less than EMI amount\n   - Solution: Ensure balance before due date\n\n2. Card/Account Issues:\n   - Card expired or blocked\n   - Account closed or frozen\n   - Solution: Use alternative payment method\n\n3. Technical Issues:\n   - Gateway timeout\n   - Network failure\n   - Solution: Try again after 15 minutes\n\n4. Incorrect Details:\n   - Wrong account number\n   - Mismatched account holder name\n   - Solution: Verify details before payment\n\n5. Daily Limits Exceeded:\n   - UPI/transfer limit reached\n   - Solution: Use different method or next day\n\nResolution:\n1. Check failure reason in notification\n2. Fix the issue\n3. Try payment again\n4. If still failing: Call support\n\nIMPORTANT: Payment failure doesn't incur late fees immediately. Contact us within 24 hours to report and resolve."
+  },
+  {
+    "instruction": "Can I see my transaction history?",
+    "input": "Customer wants to view loan payments",
+    "output": "You can view your complete transaction history:\n\nOnline Portal:\n1. Log in to account\n2. Go to 'Loan' > 'Transaction History'\n3. Filter by date range\n4. View details of each payment\n5. Download statements (PDF/Excel)\n\nMobile App:\n1. Open app\n2. Tap 'My Loan'\n3. Select 'Payment History'\n4. View and filter transactions\n\nInfo Available:\n- Payment date\n- Amount paid\n- Payment method\n- Remaining balance\n- Interest breakdown\n\nDownload Options:\n- Monthly statement\n- Quarterly summary\n- Annual report\n- Custom date range\n\nUsage:\n- For tax records\n- Income tax filing (deduction eligibility)\n- Credit report verification\n- Personal record-keeping\n\nNeed more details? Email support@lendkraft.ai with specific transaction reference."
+  },
+  {
+    "instruction": "What is a late payment fee and how much is it?",
+    "input": "Customer asking about penalty charges",
+    "output": "Late Payment Fee Structure:\n\n1-5 Days Late:\n- Fee: 1.5% of EMI amount\n- Example: INR 500 on 10,000 EMI\n- Credit score: Not impacted yet\n\n6-30 Days Late:\n- Fee: 2% of EMI amount\n- Example: INR 1,000 on 10,000 EMI\n- Credit score: Begins to impact\n\n31+ Days Late:\n- Fee: 2% per month (compounded)\n- Marked as default on credit report\n- Serious credit damage\n- Legal action may be initiated\n\nExample: 10,000 EMI\n- 1-5 days: +150\n- 6-30 days: +200 additional\n- 31+ days: +200/month ongoing\n\nHow to Avoid:\n1. Enable Auto-Pay (recommended)\n2. Set phone reminders\n3. Pay 2-3 days before due date\n4. Keep sufficient balance\n\nIf Facing Hardship:\n- Contact support immediately\n- Discuss restructuring options\n- Request tenure extension\n- Avoid default at all costs\n\nAction Today = Save Tomorrow!"
+  },
+  {
+    "instruction": "Can I get a top-up loan on my existing loan?",
+    "input": "Customer interested in additional loan",
+    "output": "Yes! Top-up loans are available for existing customers.\n\nEligibility Criteria:\n- Loan age: Minimum 6 months with perfect payment record\n- Outstanding balance: At least 50% of original amount\n- Credit score: 750+ preferred\n- Income: Should support additional EMI\n\nTop-up Loan Benefits:\n- Quick approval (2-3 days)\n- Minimal documentation\n- Competitive rates\n- Separate loan account\n- Flexible repayment terms\n\nLoan Amount Range:\n- Maximum: 50% of original loan amount\n- Example: Original 5 lakh → Top-up up to 2.5 lakh\n\nProcess:\n1. Visit portal > 'Loans' > 'Top-up Loan'\n2. Enter desired amount\n3. Get instant pre-approval\n4. Submit minimal documents\n5. Approval in 2-3 days\n6. Funds in 1-2 days\n\nRate: Usually 0.5% lower than your original rate\n\nApply today and get instant pre-approval offer!"
+  },
+  {
+    "instruction": "What is loan tenure and can I extend it?",
+    "input": "Customer asking about loan duration options",
+    "output": "Loan Tenure = The time period to repay your entire loan\n\nStandard Tenure Options:\n- 12 months (1 year)\n- 24 months (2 years)\n- 36 months (3 years)\n- 48 months (4 years)\n- 60 months (5 years)\n- 72 months (6 years) - for large amounts\n\nTenure Impact:\nLonger Tenure:\n- Lower monthly EMI\n- Pay more interest (more months)\n- Example: 5 lakh at 10% = 10,610 EMI for 5 years\n\nShorter Tenure:\n- Higher monthly EMI\n- Pay less interest (fewer months)\n- Example: 5 lakh at 10% = 14,200 EMI for 3 years\n\nCan You Extend?\nYES - for justified reasons:\n- Financial hardship\n- Job loss/income reduction\n- Medical emergency\n- Request must be within first 2 years\n\nExtension Details:\n- EMI reduces by 15-20%\n- Tenure extends by 1-3 years\n- Revised rate applies\n- Approval time: 5-7 days\n\nTo Request: Contact support with reason and documents"
+  },
+  {
+    "instruction": "What is a guarantee or co-applicant for a loan?",
+    "input": "Customer asking about guarantor or joint borrower",
+    "output": "Two ways to strengthen your loan application:\n\nCo-Applicant (Joint Borrower):\n- Another person on the loan\n- Jointly liable for repayment\n- Income combined for eligibility\n- Both names on loan document\n- Both responsible for default\n- Usually spouse/family member\n\nGuarantor (Guarantor/Surety):\n- Third party backing the loan\n- Liable only if borrower defaults\n- Not borrower (no loan benefits)\n- Guarantor's income NOT counted\n- Added security for lender\n- Usually parent/senior family member\n\nWhen Required:\n- Income below minimum threshold\n- Low credit score\n- High loan amount\n- Recent employment\n- First-time borrower\n\nDocuments Needed:\n- Both: ID, address proof, income proof\n- Guarantor: Bank statements, tax returns\n\nBenefits of Adding:\n- Easier approval (70% faster)\n- Better interest rate (0.5% discount)\n- Higher loan amount possible\n- Lower risk = faster processing\n\nChoice:\n- Co-applicant: For family financial needs\n- Guarantor: For security without sharing benefits\n\nRecommendation: Co-applicant if income helps, else guarantor"
+  },
+  {
+    "instruction": "How can I improve my credit score for better loan rates?",
+    "input": "Customer wants to improve creditworthiness",
+    "output": "Steps to Improve Your Credit Score:\n\n1. Pay Bills on Time (35% impact):\n   - Never miss EMI payments\n   - Pay credit card bills fully\n   - Settle utility bills promptly\n   - One-time miss can drop score 100 points\n\n2. Reduce Credit Utilization (30% impact):\n   - Keep credit card balance <30% of limit\n   - Example: 1 lakh limit = use <30,000\n   - Ideal ratio: 10-20%\n   - Higher utilization = lower score\n\n3. Don't Frequently Apply for Credit (10% impact):\n   - Each application = hard inquiry\n   - Multiple applications hurt score\n   - Wait 2-3 months between applications\n   - Space out applications\n\n4. Maintain Credit History Length (15% impact):\n   - Keep old accounts active\n   - Older accounts boost score\n   - Don't close credit lines immediately\n   - History = better score\n\n5. Monitor Your Credit Report:\n   - Check annually (CIBIL.com - free)\n   - Report errors/corrections\n   - Verify all accounts are yours\n   - Monitor for fraud\n\nTimeline:\n- Good habits: Score improves 20-50 points/month\n- Reach 750+: Takes 6-12 months of perfect payments\n\nBenefit at Different Scores:\n- 750+: 8.5% rate, instant approval\n- 700-749: 9.5% rate, 2-3 day approval\n- 650-699: 11%+ rate, 5-7 day approval\n\nStart today - every payment counts!"
+  },
+  {
+    "instruction": "What are the compliance and regulatory requirements for loans?",
+    "input": "Customer asking about loan regulations and laws",
+    "output": "Key Compliance Requirements:\n\nRegulatory Framework:\n- RBI (Reserve Bank of India) guidelines\n- BFSI Act compliance\n- Fair Lending practices\n- Consumer Protection Act\n- Data Privacy (DPDP Act)\n\nYour Rights:\n1. Fair Pricing:\n   - Transparent interest rates\n   - No hidden charges\n   - Clear cost disclosure\n\n2. Privacy:\n   - Data security guaranteed\n   - Strict confidentiality\n   - No unauthorized sharing\n   - Compliance with privacy laws\n\n3. Transparent Terms:\n   - Clear loan documents\n   - Easy to understand\n   - Right to copies\n   - Time to review before signing\n\n4. Complaint Redressal:\n   - Free grievance mechanism\n   - Response within 7-10 days\n   - Escalation options\n   - RBI ombudsman access\n\n5. Protection from Harassment:\n   - No abusive collection practices\n   - Fixed calling hours\n   - No public shaming\n   - Respectful treatment\n\nOur Commitment:\n- 100% compliant with all regulations\n- Regular compliance audits\n- Customer-first approach\n- Transparent operations\n\nIf Rights Violated:\n- Contact complaints@lendkraft.ai\n- Escalate to RBI\n- Consumer court option\n\nYou're Protected by Law!"
+  },
+  {
+    "instruction": "What happens to my loan if the company faces financial issues?",
+    "input": "Customer concerned about company solvency",
+    "output": "Your Loan is Protected:\n\n1. Regulatory Safeguards:\n   - RBI regulates all banking operations\n   - Regular compliance audits\n   - Capital adequacy requirements\n   - Risk management oversight\n\n2. Deposit Insurance:\n   - DICGC (Deposit Insurance & Credit Guarantee Corporation)\n   - Covers deposits up to 5 lakh per customer\n   - Protects your balance\n   - Government-backed guarantee\n\n3. Loan Account Protection:\n   - Your loan agreements are valid\n   - Enforceable in court\n   - Cannot be cancelled unilaterally\n   - Legally binding on both parties\n\n4. If Company Restructures:\n   - Loans transferred to acquirer\n   - Terms remain same\n   - You continue with same obligations\n   - Service continues uninterrupted\n\n5. Company Financial Health:\n   - We maintain strong capital reserves\n   - Profitable operations\n   - Growing loan portfolio\n   - Investor confidence high\n\nYour Security:\n- Registered NBFC with RBI\n- Full regulatory oversight\n- Audited accounts\n- Transparent reporting\n- Multi-layer protection\n\nBottom Line:\nYour loan is safe and protected by multiple regulatory and legal safeguards. Rest assured about your borrowing."
+  },
+  {
+    "instruction": "Can I borrow against my savings or investments?",
+    "input": "Customer asking about credit against deposits",
+    "output": "Yes! We offer loans against your savings and investments:\n\nCredit Against Deposits (CAD):\n- Interest Rate: 2-3% (vs 8-12% regular loan)\n- Amount: Up to 90% of deposit value\n- Tenure: Same as deposit tenure\n- Approval: Instant (same day)\n- Processing: 24 hours to fund\n\nLoans Against Investments:\n- Against stocks/mutual funds\n- LTV (Loan to Value): 50-70%\n- Rate: 6-8% (depends on securities)\n- Tenure: Flexible\n- Quick processing\n\nAdvantages:\n1. Lower interest rates\n2. Instant approval (no credit check)\n3. Keep earning investment returns\n4. Maintain credit limit\n5. Flexible repayment\n\nExample:\n- Savings deposit: INR 5 lakh at 4% interest\n- CAD Loan: INR 4.5 lakh at 2.5% interest\n- Deposit continues earning 4%\n- Net cost: Negative (you earn!)\n\nProcess:\n1. Apply through portal\n2. Select deposit/investment\n3. Choose loan amount\n4. Instant approval\n5. Funds transferred same day\n\nDocuments: None (online only)\n\nNote: Deposit earns interest, loan charges interest = net benefit\n\nApply now if you have deposits or investments!"
+  },
+  {
+    "instruction": "What are hidden charges I should know about?",
+    "input": "Customer concerned about undisclosed fees",
+    "output": "Complete Fee Transparency:\n\nNO Hidden Charges:\n✓ No processing fee\n✓ No hidden interest\n✓ No surprise charges\n✓ No documentation fee\n✓ No account maintenance fee\n\nTransparent Charges (Disclosed Upfront):\n1. Processing Fee: 0% (waived)\n2. Late Payment: 1-2% of EMI (as per schedule)\n3. Prepayment Charge: 2% (only within 6 months)\n4. Statement Fee: Free (unlimited)\n5. Cheque Bounce: As per RBI guidelines\n\nWhat's Included in EMI:\n- Principal amount\n- Interest charge\n- No additional per-payment fee\n- All inclusive amount\n\nExpense Breakdown (Example 5L, 5yr, 10%):\n- Principal: 5,00,000\n- Total Interest: 1,38,614\n- Total Amount: 6,38,614\n- Monthly EMI: 10,644\n\nDisclosure:\n- All fees disclosed in loan agreement\n- Sanction letter shows itemized costs\n- No surprises in statements\n- Guaranteed transparency\n\nWe Believe in:\n- Clear pricing\n- No surprises\n- Customer trust\n- Complete transparency\n\nAny questions on charges? Ask before signing!"
+  },
+  {
+    "instruction": "How long does the loan approval process take?",
+    "input": "Customer impatient about approval timeline",
+    "output": "Approval Timeline (Standard):\n\nInsta-Approval:\n- Salary account holders: 2-4 hours\n- Existing customer top-up: 24 hours\n\nRegular Applicants:\n- Document upload: Day 1\n- Verification: Day 2-3\n- Credit decision: Day 2-3\n- Final approval: Day 3-5\n- Disbursement: Day 4-7\n\nFull Timeline: 3-7 business days\n\nFactors Affecting Speed:\n1. Document completeness - Missing docs = delays\n2. Credit history quality - Clear history = faster\n3. Income verification - Stable income = quicker\n4. Time of application - Morning apps = faster\n5. Loan amount - Higher amounts = more checks\n\nExpedited Options:\n- Premium members: 24-48 hours\n- Salary account + complete docs: 2 days\n- Referral program: Priority queue\n- Pre-approved candidates: Same day\n\nSpeed Boosters:\n1. Use salary account\n2. Submit all documents upfront\n3. Clear credit history\n4. Day-time application\n5. Moderate loan amount\n\nTimeline Guarantee:\n- Approval decision: Within 5 days\n- Disbursement: Within 7 days\n- Or we process fee waived\n\nTip: Speed depends on YOU - complete documents = fast approval!"
+  },
+  {
+    "instruction": "What is loan disbursement and when do I get funds?",
+    "input": "Customer asking when loan money is provided",
+    "output": "Loan Disbursement Explained:\n\nWhat is Disbursement?\nDisbursement = Actual money transferred to your account\n(Approval doesn't mean money received)\n\nTimeline After Approval:\n- Approval Date: Day 0\n- Final checks: Day 1\n- Disbursement initiation: Day 1-2\n- Funds in your account: Day 2-4\n- Total time: 2-4 business days after approval\n\nEND-TO-END Timeline:\n1. Application → Approval: 3-5 days\n2. Approval → Disbursement: 2-4 days\n3. TOTAL: 5-9 business days\n\nDisbursement Process:\n1. Final verification completed\n2. Loan agreement signed (digital)\n3. System initiates transfer\n4. Bank processes transfer\n5. Funds appear in account\n\nHow You Get Funds:\n- Direct Bank Transfer (NEFT/RTGS)\n- To your registered account\n- One-time transfer\n- Full amount at once\n\nAfter Disbursement:\n✓ EMI starts next month\n✓ Loan account created\n✓ Password sent for portal\n✓ Statement generated\n✓ Interest starts accruing\n\nImportant Reminders:\n- Approval ≠ Money (disbursement happens after)\n- Fund arrival: 2-4 days post-approval\n- Check account notification for exact date\n- Confirm receipt before final documentation\n\nWait starts after approval, not after application!"
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a personal loan in detail?",
+    "input": "Customer asking about personal loan eligibility (follow-up)",
+    "output": "To be eligible for our personal loan, you must meet the following criteria:\n- Age: 21-65 years\n- Income: Minimum INR 2.5 lakh per annum\n- Credit Score: 650 or above\n- Employment: Stable employment for at least 2 years\n- Documents: Valid ID, address proof, income proof, and bank statements (last 6 months)\n\nEligibility varies based on your profile. Please share your details for a customized offer.\n\nFor more personalized advice, please contact our support team."
+  }
+]
