@@ -198,7 +198,7 @@ if __name__ == "__main__":
     print("="*80)
     
     for query in test_queries:
-        print(f"\n🔍 Query: {query}")
+        print(f"\n Query: {query}")
         match, score = matcher.find_match(query)
         if match:
             print(f"✓ Match found (Score: {score:.4f})")
